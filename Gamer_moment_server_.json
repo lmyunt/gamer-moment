@@ -1,0 +1,189 @@
+{
+  "Welcome": [
+    {
+      "id": 1,
+      "Text": "What would you like to inquire about?",
+      "Choices": ["0-SHIP STATUS", "1-MISSION STATUS"]
+    },
+    {
+      "id": "1_0",
+      "Text": "ANALYZING SHIP LOG...Thank you for your patience! \n it appears that while you slept our navigation system experienced a malfunction, knocking us off course. \nThis unfortunately resulted in an emergency landing on a planet that cannot be located in the INDAGAVI PLANETARY GUIDE. \nDiagnostic tests indicate that the vessel is currently inoperable due to major damage incurred during landing, and a distress signal has been sent out on all available channels.\n INDIGAVI protocol 103B has been initiated. \nA scan of the surrounding planet has been completed. !!MISSINION UPDATED!! \nSYSTEM CRASH PROTOCOL ENGAGED",
+      "Choices":["0-MISSION STATUS", "1-MORE INFORMATION"]  
+    
+    },
+    {
+      "id": "1_1",
+      "Text": "INITIAL MISSION PARAMETERS: Utilize INDA to gather data and interact with local sentient beings, fauna, and flora. \n UPDATED MISSION PARAMETERS ISSUED: \n Scans indicate life on current planet, protocol 8649 requires alignment with original mission parameters Please Select 0 to consent to updated parameters. /n !!WARNING!!/n DECLINING MISSION PARAMETER UPDATES WILL RESULT IN IMMEDIATE TERMINATION OF EMPLOYEMENT",
+      "Choices": ["0-AGREE TO UPDATE", "1-DECLINE UPDATE"]
+    },
+    {
+      "id": "1_0_0",
+      "Text": "INITIAL MISSION PARAMETERS: Utilize INDA to gather data and interact with local sentient beings, fauna, and flora. \n UPDATED MISSION PARAMETERS ISSUED: \n Scans indicate life on current planet, protocol 8649 requires alignment with original mission parameters Please Select 0 to consent to updated parameters. /n !!WARNING!!/n DECLINING MISSION PARAMETER UPDATES WILL RESULT IN IMMEDIATE TERMINATION OF EMPLOYEMENT",
+      "Choices": ["0-AGREE TO UPDATE", "1-DECLINE UPDATE"]
+
+    
+
+    },
+
+    {"id": "1_0_0_0",
+     "Text": "INDA: 'Thank you for your continued cooperation with INDAgavi, we appreciate you and all that you do! /nThe door has been unlocked, please proceed'!",
+     "Choices":["0-Go outside", "1-Equip Gavisuit"]
+
+    },
+
+    {"id": "1_0_0_1",
+      "Text": "INDA: 'I am legally required to inform you your employment has been terminated. GoodBye.' /n The power cuts out, the terminal stops responding no matter what you try. You are never found, the ship's distress signals lost in the darkness of space. The End."
+      
+
+ 
+     },
+
+     {"id": "1_0_0_0_0",
+      "Text": "You proceed outside, as soon as the door shuts behind you the world begins to spin. It didn't occur to you that the atmosphere could be poisonous, but the intensity of it causes you to fall to your knees. /n As your consciousness fades you bitterly remember that this was supposed to be an 'easy job'/n The End"
+ 
+     },
+
+     {"id": "1_0_0_0_1",
+      "Text": "The suit goes on perfectly. INDA: Don't forget to equip your INDAgo tablet, without that we won't remain connected once you are more than 10 meters away! ",
+      "Choices":["0-Equip INDAgo", "1-Ignore and go outside"]
+ 
+     }, 
+     {
+      "id": "1_0_0_0_1_1",
+      "Text":"Why do you need to bring along the AI that is forcing you to be in this situation in the first place? You think to yourself as you press the flashing 'door' button./n The light is blinding as you take your first step into this new world. But before you have a moment to process the bright colors infront of you you hear sliding sound of the door behind you. /n You spin around as you hear the click of the doorlock. /n Your hands slide over the front of the door searching for a handle to no avail. Panic sets in and you begin to bang on the door before a familiar voice floods into your helmet speaker. /n INDA: 'You have violated code m385-e, failure to comply with equipment requirements, and appear to be escaping with INDAgavi technology. The protocol indicates that I am legally required to inform you that this has resulted in your immediate termination. You are now no longer recognized as an authorized user, disconnecting from Gavisuit./n Everything goes dark as your helmet goes black, the power to the suit being cut off. Your attempts to escape the suit make you want to scream in frustration, the locks refusing to budge. /n So you sit in the dark silence, unable to cry as the claustraphobia overwhelms, realizing slowly that this is where your journey ends. /n The End /n ",
+      "Choices":["0-Equip INDAgo", "1-Ignore and go outside"]
+ 
+     }, 
+
+     {"id": "1_0_0_0_1_0",
+      "Text": "The tablet slides into your armband, a familiar connection jingle rings as the loading screen lights up./n You lock eyes with the flash light labeled, taking a deep breath as the press of the button causes the door to swing open. /n Light floods into the darkened room you caled home for the past three months, and you take your first step forward. /nThe scene infront of you is brightly colored, the ground itself a crimson red covered in a dark grass and a field of what you'd describe as dandelions still covered in their cottony white seeds. /nThe field streches until it reaches a body of water, similar to a small lake that reflects the orange sky above. You stare in amazement before INDA cuts in INDA: My scans indicate that indcators of life on this planet are highest to the East and to the West of your current location. /n Which way would you like to go first?",
+      "Choices":["0-Look to the East", "1-Look to the West"]
+ 
+     },
+
+     {"id": "1_0_0_0_1_1_0",
+      "Text": "You look towards the East instinctively and large forest comes into view. The trees look ancient by Earth standards, with black leaves reflecting their true purple and maroon hues when the light hits at just the right angle. Amongst the tightly packed trees you spot a larger opening, with a path that was most likely made by whoever or whatever regularly entered.",
+      "Choices":["0-Go to the forest", "1-Look to the West"]
+
+     },
+
+     
+     {
+       "id": "1_0_0_0_1_1_1",
+       "Text": "Arcadia's description",
+      "Choices":["0-Go to the ", "1-Go to the forest"]
+
+
+     },
+
+     {
+      "id": "1_0_0_0_1_1_1_0",
+      "Text": "Arcadia's description",
+     "Choices":["0-Go to the ", "1-Go to the forest"]
+
+
+    },
+
+    {
+
+    "id": "1_0_0_0_1_1_0",
+    "Text": "You approach the entrance to the forest, you're surprised that it's large enough that you don't need to duck down and you proceed down the path. The sights and sounds overwhelm you, the fallen tree leaves crunch under your feet, bright magenta flowers grow in vines around the trees, and the chirp of unsceen insects continue to grow around you until you reach a fork in the path. ",
+   "Choices":["0-Go left ", "1-Go right"]
+
+    },
+
+    {
+
+      "id": "1_0_0_0_1_1_0_0",
+      "Text": "Left seems to be the way to go, you continue along the path taking in the sites when you notice something out of place in this world of purples, a large yellow flower./n The flower itself had large petals daintly draped outwards it's width appeared close to a meter in length, which was all supported by a large green base. /n INDA: 'Friendly reminder that if you find something interesting, investigate!' You roll your eyes, and take a couple steps closer before stopping",
+     "Choices":["0-Get closer to investigate", "1-Observe longer"]
+  
+      },
+
+      {
+
+        "id": "1_0_0_0_1_1_0_0_0",
+        "Text": "You approach the flower, admiring how beautiful it was up close. It was then that you noticed that the middle of the plant seemed to almost sparkle. As you leaned in closer to investigate the source of the shine everything went dark in the blink of an eye. It was then you realized the flower had swallowed you whole, and before you could yell for help the air was knocked out of you by the squeeze of the flower. YOU DIED",
+       
+        },
+        
+        {
+
+          "id": "1_0_0_0_1_1_0_0_1",
+          "Text": "You rather be safe than sorry, so you continue to study the plant from afar until you saw a bird the size of a housecat fly over it. /nIn the blink of an eye the flower's petals had closed and caught the bird midflight. Your mouth fell open and within 30 seconds the flower had returned to it's original state. You shiver and continue down the path trying to get away as quickly as possible. /n It's not long until you discover another oddity, a nest so big that you could comfortably fit inside.", 
+         "Choices":["0-Observe from afar", "1-Walk past"]
+      
+          },
+
+          {
+
+            "id": "1_0_0_0_1_1_0_0_1_0",
+            "Text": "Well it IS your job to at least observe this world and what lives here, so you get close enough to get a visual of the inside of the nest but maintain your distance. /n Inside are light blue eggs the size of bowling balls, and you stretch your neck to try and get a count of how many are in the nest./n As you're confirming that there are at least 4 eggs you hear a loud creak in the trees above you. You look up to find the source of the noise and make eye contact with the biggest bird you have ever seen.n/ The bird was easily the size of a grown man if not bigger, it had dark purple feathers and a long sharp orange beak. And it was staring directly at you.", 
+           "Choices":["0-Turn around and run away as fast as you can", "1-Maintain eye contact and slowly walk away backwards"]
+        
+            },
+
+            {
+
+              "id": "1_0_0_0_1_1_0_0_1_0_0",
+              "Text": "Your heart is beating so loud you can hear it in your ears as you run away, but it's no use. You can hear it screaching and flying after you, the claws hit your back and you fall. The world spins as you're crawling in an attempt to escape. /n It's too little too late as your vision is filled with the purple feathers. THE END "
+          
+              },
+              {
+
+                "id": "1_0_0_0_1_1_0_0_1_0_1",
+                "Text": "You take a deep breath in and hold it as you slowly walk backwards, careful to not trip or fall as you maintain eye contact with the threatening bird as it stares unblinkingly back. You do so until you finally round a corner, before running as fast as you can down the path. n/ Your lungs are on fire but you don't stop until you're sure you haven't been followed. As you try to catch your breath you take in your surroundings, and notice far ahead in the distance what appears to be someone sitting on a treestump, tending to a fire. Before you have a chance to think you see a hand waiving at you",
+               "Choices":["0-Approach the stranger", "1- Walk past you can't risk it" ]
+            
+                },
+    
+            
+      
+
+      {
+
+        "id": "1_0_0_0_1_1_0_1",
+        "Text": "Right is always right, you head down the path admiring the structure of the forest, the way the green and blue vines wrap around the trees. n/ As you walk some movement in a nearby bush catches your eye and stops you in your tracks. Slowly a creature no bigger than your childhood cat emerged from the bush, it's white body and thin legs contrasting it's dark surroundings. But what really caught your eye was that it appeared to have three heads...shaped like mushrooms. The longer you observe the creature the more you come to the conclusion that maybe this was some type of living fungi.",
+       "Choices":["0-Touch the creature directly", "1-Use a stick to touch the creature"]
+    
+        },
+
+        {
+
+          "id": "1_0_0_0_1_1_0_1_0",
+          "Text": "You can't resist the urge to see what the fungi feels like and you reach your hand out and lightly graze the surface of one of the blue heads./n Instantly the glove begins to melt, you pull your hand back causing the melted material to spread further. Warning alarms blare as the points of contact also begin to melt, exposing you directly to the poisonous atmosphere of the planet. Your curiousity got the better of you, as the fungi wobbles away. The End",
+         "Choices":["0-Touch the creature directly", "1-Use a stick to touch the creature"]
+      
+          },
+
+          {
+
+            "id": "1_0_0_0_1_1_0_1_1",
+            "Text": "As much as you wish you could touch the creature directly, you see a large stick that would let you satisfy your curiousity, and maintain some distance. You pick up the stick and slowl approach, the creature doesn't react to you but as soon as the stick touches it the end of the stick begins to bubble and melt./n You pull the stick back and carefully walk around the fungi, and hurry down the path thankful for the stick that protected you but a bit nervous about the poison on the other end.",
+           "Choices":["0- Get rid of the stick", "1-Keep the stick"]
+        
+            },
+            
+            
+          {
+
+            "id": "1_0_0_0_1_1_0_1_1_0",
+            "Text": "You drop the stick without a second thought and keep walking. /nThe forest is getting darker as you go down the path and you get the feeling that someone or something is watching you. /n You nervously glance around, not realzing until you're already on the ground that there was an obstacle right infront of you. When you look to see what caused you to fall you come face to face with a mouth bigger than your head coming at you. In a second you're swallowed and face your demise to a giant serpent. The End"
+        
+            },
+            
+            {
+
+              "id": "1_0_0_0_1_1_0_1_1_1",
+              "Text": "You hold the stick in your hand for a second and keep walking. /nThe forest is getting darker as you go down the path and you get the feeling that someone or something is watching you. /n You nervously glance around, not realzing until you're already on the ground that there was an obstacle right infront of you. When you look to see what caused you to fall you come face to face with a mouth bigger than your head coming at you. /nAlmost instinctively you shove the stick into the mouth of your attacker, letting go as the thing thrashes violently. You scramble to get up and away from it, only getting a glance of what looks to be a 10 meter long snake before running away as fast as you could. You run until you feel your legs and lungs about to give out, as you slow down you see what appears to be smoke coming from a fire. /n You slowly walk towards the source, until a small campsite comes into view. Before you can think of what to do you see there's someone sitting at the campsite, and they wave at you.",
+              "Choices": ["0-Approach the stranger", "1- Walk past you can't risk it" ],
+            }
+
+
+
+
+ 
+
+
+  ]
+}
