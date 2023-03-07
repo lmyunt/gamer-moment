@@ -63,33 +63,29 @@
       "id": "1_0_0_0_1_0",
       "Text": "The tablet slides into your armband, a familiar connection jingle rings as the loading screen lights up./n You lock eyes with the flash light labeled, taking a deep breath as the press of the button causes the door to swing open. /n Light floods into the darkened room you caled home for the past three months, and you take your first step forward. /nThe scene infront of you is brightly colored, the ground itself a crimson red covered in a dark grass and a field of what you'd describe as dandelions still covered in their cottony white seeds. /nThe field streches until it reaches a body of water, similar to a small lake that reflects the orange sky above. You stare in amazement before INDA cuts in INDA: My scans indicate that indcators of life on this planet are highest to the East and to the West of your current location. /n Which way would you like to go first?",
       "Choices": [
-        "0-Look to the East",
-        "1-Look to the West"
+        "0-Look to the East Forest",
+        "1-Look to the West Mountain"
       ]
     },
     {
       "id": "1_0_0_0_1_1_0",
       "Text": "You look towards the East instinctively and large forest comes into view. The trees look ancient by Earth standards, with black leaves reflecting their true purple and maroon hues when the light hits at just the right angle. Amongst the tightly packed trees you spot a larger opening, with a path that was most likely made by whoever or whatever regularly entered.",
       "Choices": [
-        "0-Go to the forest",
-        "1-Look to the West"
+        "0-Go to the East Forest",
+        "1-Go to the West Mountain"
       ]
     },
     {
-      "id": "1_0_0_0_1_1_1",
-      "Text": "Arcadia's description",
-      "Choices": [
-        "0-Go to the ",
-        "1-Go to the forest"
-      ]
+      "id": "1_0_0_0_1_0_1",
+      "Text": "Something about the forest makes you uneasy. You look to see the mountains, the risen red earth blanketed in the white snow looks beautiful in a way that you can't describe. An urge to go there overcomes you and you begin your journey. You're surprised by how fast you arrive,  2 hours flying by and you're at the base of the summit. The weather that seemed fine moments ago begins to turn into a blizzard, overwhelming you in a moment completely obfuscating your view. Returning looks to be your best bet, so you turn around and attempt to go back the way you came trudging through quickly building snow until you trip over an unseen rock. The world spins as you tumble down, finally landing with a thud the air knocked out of your lungs. You plead with your body to move but you feel frozen in place, wondering if this is where everything ends. When suddenly a shadow is cast over you and you come face to face with a helmet just like your own attached to who or whatever was looking down at you...TO BE CONTINUED"
+      
+      
     },
     {
-      "id": "1_0_0_0_1_1_1_0",
-      "Text": "Arcadia's description",
-      "Choices": [
-        "0-Go to the ",
-        "1-Go to the forest"
-      ]
+      "id": "1_0_0_0_1_1_0_1",
+      "Text": "Something about the forest makes you uneasy. You look to see the mountains, the risen red earth blanketed in the white snow looks beautiful in a way that you can't describe. An urge to go there overcomes you and you begin your journey. You're surprised by how fast you arrive,  2 hours flying by and you're at the base of the summit. The weather that seemed fine moments ago begins to turn into a blizzard, overwhelming you in a moment completely obfuscating your view. Returning looks to be your best bet, so you turn around and attempt to go back the way you came trudging through quickly building snow until you trip over an unseen rock. The world spins as you tumble down, finally landing with a thud the air knocked out of your lungs. You plead with your body to move but you feel frozen in place, wondering if this is where everything ends. When suddenly a shadow is cast over you and you come face to face with a helmet just like your own attached to who or whatever was looking down at you...TO BE CONTINUED"
+
+      
     },
     {
       "id": "1_0_0_0_1_1_0",
